@@ -6,12 +6,10 @@ export default {
     // 默认meta位置
     meta: "./template/template.json",
 
-
-
     // 路径写法示例
     entry: './__demo/**/*.{js,tsx}',
     // entry: './__demo/*.js',
     // entry: './__demo/module/*.{js,tsx}',
 
-  
+     entry: './_an-ger-pornhub@simple/*.{js,tsx}',
 }
